@@ -1,56 +1,56 @@
 {
   "01": {
-    "title": "Winning and Losing",
-    "filename": "01",
-    "language": "games",
-    "subject": "games",
-    "card_number": 1,
-    "series_total_cards": 6,
-    "series_title": "12 things every video game has"
+    "titel": "Winnen en Verliezen",
+    "bestandsnaam": "01",
+    "taal": "spellen",
+    "onderwerp": "spellen",
+    "kaart_nummer": 1,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "12 onderdelen die elk videospel heeft"
   },
   "02": {
-    "title": "Game Components",
-    "filename": "02",
-    "language": "games",
-    "subject": "games",
-    "card_number": 2,
-    "series_total_cards": 6,
-    "series_title": "12 things every video game has"
+    "titel": "Spelonderdelen",
+    "bestandsnaam": "02",
+    "taal": "spellen",
+    "onderwerp": "spellen",
+    "kaart_nummer": 2,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "12 onderdelen die elk videospel heeft"
   },
   "03": {
-    "title": "Player and the game",
-    "filename": "03",
-    "language": "games",
-    "subject": "games",
-    "card_number": 3,
-    "series_total_cards": 6,
-    "series_title": "12 things every video game has"
+    "titel": "De speler en het spel",
+    "bestandsnaam": "03",
+    "taal": "spellen",
+    "onderwerp": "spellen",
+    "kaart_nummer": 3,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "12 onderdelen die elk videospel heeft"
   },
   "04": {
-    "title": "Gameplay",
-    "filename": "04",
-    "language": "games",
-    "subject": "games",
-    "card_number": 4,
-    "series_total_cards": 6,
-    "series_title": "12 things every video game has"
+    "titel": "Spelervaring",
+    "bestandsnaam": "04",
+    "taal": "spellen",
+    "onderwerp": "spellen",
+    "kaart_nummer": 4,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "12 onderdelen die elk videospel heeft"
   },
   "05": {
-    "title": "Flavour",
-    "filename": "05",
-    "language": "games",
-    "subject": "games",
-    "card_number": 5,
-    "series_total_cards": 6,
-    "series_title": "12 things every video game has"
+    "titel": "Thema",
+    "bestandsnaam": "05",
+    "taal": "spellen",
+    "onderwerp": "spellen",
+    "kaart_nummer": 5,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "12 onderdelen die elk videospel heeft"
   },
   "06": {
-    "title": "Building your Game",
-    "filename": "06",
-    "language": "games",
-    "subject": "games",
-    "card_number": 6,
-    "series_total_cards": 6,
-    "series_title": "12 things every video game has"
+    "titel": "Je spel opbouwen",
+    "bestandsnaam": "06",
+    "taal": "spellen",
+    "onderwerp": "spellen",
+    "kaart_nummer": 6,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "12 onderdelen die elk videospel heeft"
   }
 }
