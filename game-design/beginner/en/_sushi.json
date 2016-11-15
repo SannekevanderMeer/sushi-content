@@ -1,42 +1,42 @@
 {
-  "serie_title": "12 things every video game has",
-  "language": "en",
-  "subject": "games",
-  "cards": [
+  "serie_titel": "12 onderdelen die elk videospel heeft",
+  "taal": "nl",
+  "onderwerp": "spellen",
+  "kaarten": [
     {
-      "title": "Winning and Losing",
-      "filename": "01",
-      "card_number": 1
+      "titel": "Winnen en Verliezen",
+      "bestandsnaam": "01",
+      "kaart_nummer": 1
     },
     {
-      "title": "Game Components",
-      "filename": "02",
-      "card_number": 2
+      "titel": "Spelonderdelen",
+      "bestandsnaam": "02",
+      "kaart_nummer": 2
     },
     {
-      "title": "Player and the game",
-      "filename": "03",
-      "card_number": 3
+      "titel": "De speler en het spel",
+      "bestandsnaam": "03",
+      "kaart_nummer": 3
     },
     {
-      "title": "Gameplay",
-      "filename": "04",
-      "card_number": 4
+      "titel": "Spelervaring",
+      "bestandsnaam": "04",
+      "kaart_nummer": 4
     },
     {
-      "title": "Flavour",
-      "filename": "05",
-      "card_number": 5
+      "titel": "Thema",
+      "bestandsnaam": "05",
+      "kaart_nummer": 5
     },
     {
-      "title": "Building your Game",
-      "filename": "06",
-      "card_number": 6
+      "titel": "Je spel opbouwen",
+      "bestandsnaam": "06",
+      "kaart_nummer": 6
     }
   ],
-  "description": "Learn the basic theory of making great video games!",
-  "difficulty": 1,
-  "author": "CoderDojo Foundation",
+  "beschrijving": "Leer de basis voor het maken van geweldige videospellen!",
+  "moeilijkheidsgraad": 1,
+  "auteur": "CoderDojo Foundation",
   "website": "https://coderdojo.com",
   "twitter": "CoderDojo"
 }
