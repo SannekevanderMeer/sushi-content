@@ -1,0 +1,45 @@
+1. Geweldig! Je hebt je eerste Scratch programma geschreven. Tijd om wat meer te leren over het toevoegen en verwijderen
+van scripts! De Scratch code (script) bestaat uit *blokken* die je aan elkaar klikt om programma's te maken.
+
+Deze blokken komen uit het *scriptblokken* paneel waar ze in diverse categorieën onderverdeeld staan. Door op de categorie
+te klikken, zie je de blokken die daarbij horen.
+
+Alle blokken in een categorie staan in een lijst. Kies het blok dat je wilt gebruiken, klik erop, houdt je muis ingedrukt
+en sleep het naar *Scriptzone huidige sprite* en laat je muis los.
+
+2. Als het blok in de *Scriptzone huidige sprite* staat kun je het heen en weer slepen en aan andere blokken vastzetten. Als
+je wilt weten wat een blok doet, dubbelklik je erop, dan wordt het uitgevoerd!
+Je wilt dat je blokken vanzelf werken als er iets gebeurt. Daarom zullen de meeste programma's beginnen met een blok uit
+de categorie Gebeurtenissen. Meestal is dat deze:
+
+De scriptblokken die aan dit blok vastzitten zullen uitgevoerd worden zodra er op de *groene vlag* (de startknop) wordt geklikt.
+
+3. Scriptblokken worden van boven naar beneden uitgevoerd, dus het is belangrijk in welke volgorde je de blokken vastzet. In
+dit voorbeeld zal de sprite eerst "Hallo!" *zeggen* voordat het 't geluid "meow" zal *starten*.
+
+4. Verwijderen of weghalen van scriptblokken die je niet wilt gebruiken is makkelijk! Je klikt op hart *schaar* icoontje en 
+vervolgens op het blok dat je wilt weghalen.
+
+Wees voorzichtig! *Je zult alle blokken onder het blok waarop je klikt ook verwijderen*. Als je dit per ongeluk doet en je wilt
+je script terughalen, dan gebruik je het menu *Bewerken* en klik je op * Ongedaan maken*.
+
+Probeer nu eens om scriptblokken toe te voegen, te verwijderen en weer terug te halen!
+
+5. Nu je weet hoe je scripts kunt invoeren en dingen laten gebeuren, is het tijd om een simpel programma te maken:
+laat de Scratch kat een rondje lopen!
+
+Zorg ervoor dat je de kat geselecteerd hebt in de *spritelijst* en voeg deze blokken samen. Je vindt ze onder *Gebeurtenissen*
+en *Beweging*. Klik vervolgens op de groene vlag boven het *speelveld*.
+
+Als je te vaak klikt en de kat uit het speelveld verdwijnt, kiun je hem terugslepen!
+Nu loopt de kat in een rechte lijn, en dat is niet wat je wilt. Voeg dit scriptblok toe aan het eind van de code om de kat
+een rondje te laten lopen. Dit blok zit ook in *Beweging*.
+
+Dit blok zorgt ervoor dat de kat 15 graden van de 360 graden van een cirkel draait. Je kunt dat getal veranderen, en het aantal
+stappen door op het cijfer te klikken en een ander cijfer in te voeren.
+
+6. Sla nu je werk op! Ga hiervoor naar het menu *Bestand* en klik op *Naar je computer downloaden* (als je in de
+online versie werkt).
+
+Werk je in de geïnstalleerde versie van Scratch klik dan op *Bestand* en vervolgens op *Opslaan*. Sla regelmatig je werk op!
+Bij de geïnstalleerde versie kun je ook voor *Opslaan als* kiezen als je je bestand een andere naam wilt geven.
